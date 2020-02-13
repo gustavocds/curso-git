@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gustavo\\Desktop\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste.csproj": {}
+    "C:\\Users\\Gustavo\\Desktop\\Nova pasta\\curso-git\\ProjetoTeste\\ProjetoTeste.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gustavo\\Desktop\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste.csproj": {
+    "C:\\Users\\Gustavo\\Desktop\\Nova pasta\\curso-git\\ProjetoTeste\\ProjetoTeste.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gustavo\\Desktop\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste.csproj",
+        "projectUniqueName": "C:\\Users\\Gustavo\\Desktop\\Nova pasta\\curso-git\\ProjetoTeste\\ProjetoTeste.csproj",
         "projectName": "ProjetoTeste",
-        "projectPath": "C:\\Users\\Gustavo\\Desktop\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste.csproj",
+        "projectPath": "C:\\Users\\Gustavo\\Desktop\\Nova pasta\\curso-git\\ProjetoTeste\\ProjetoTeste.csproj",
         "packagesPath": "C:\\Users\\Gustavo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gustavo\\Desktop\\ProjetoTeste\\ProjetoTeste\\obj\\",
+        "outputPath": "C:\\Users\\Gustavo\\Desktop\\Nova pasta\\curso-git\\ProjetoTeste\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gustavo\\AppData\\Roaming\\NuGet\\NuGet.Config",
